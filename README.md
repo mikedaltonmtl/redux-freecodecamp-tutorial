@@ -1,3 +1,10 @@
+## What is this repo?
+I've just finished the React Redux Tutorial for Beginners by Christopher Lis, time for the next one.
+Step up freeCodeCamp!
+
+Here goes with Redux for Beginners – Learn Redux Basics with Code Examples...
+https://www.freecodecamp.org/news/redux-for-beginners/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
